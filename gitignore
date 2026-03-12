@@ -1,0 +1,35 @@
+# Python bytecode
+
+**pycache**/
+*.py[cod]
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# pytest cache
+
+.pytest_cache/
+
+# VS Code settings
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Python distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+#
